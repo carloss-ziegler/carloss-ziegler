@@ -1,8 +1,3 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning JavaScript / React 
-- 📫 How to reach me: chziegler445@gmail.com
-
 <div align="center">
   <a href="https://github.com/carloss-ziegler">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloss-ziegler&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
